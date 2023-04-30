@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>
+Formulario 4
+</title>
+</head>
+<body>
+<form action="mailto:login@servidor.es"
+method="post" enctype="text/plain">
+<table border align="center">
+<tr>
+<td width="50%" align="right">
+Elige el grupo de edad en el que te encuentras:
+</td>
+<td width="50%" alignn="left">
+<input type="radio" name="Edad" 
+              value="Menor de 18">
+Tengo menos de 18 años.<br>
+<input type="radio" name="Edad" 
+              value="De 18 a 50">
+Tengo entre 19 y 50 años.<br>
+<input type="radio" name="Edad" 
+              value="Más de 51">
+Tengo más de 51 años.
+</td>
+</tr>
+<tr>
+<td width="50%" align="right">
+Valora este curso de HTML:
+</td>
+<td width="50%" alignn="left">
+<input type="radio" name="Valoracion" 
+              value="Muy bueno">
+Me parece muy bueno.<BR>
+<input type="radio" name="Valoracion" 
+              value="Regular">
+Bueno... No está del todo mal.<BR>
+<input type="radio" name="Valoracion" 
+              value="Malo">
+Me parece horroroso
+</td>
+</tr>
+<tr><td width="50%" align="right"><input type="submit" value="Enviar"></td><td width="50%" align="left"><input type="reset" value="Borrar"></td></tr>
+</table>
+</form>
+</body>
+</html>
+ 

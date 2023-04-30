@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>
+Imagen como fondo de página
+</title>
+</head>
+<body background="imag/claro1.gif">
+<center>
+<h2>
+Esta página tiene una imagen de fondo.
+</h2>
+</center>
+</body>
+</html>
+ 

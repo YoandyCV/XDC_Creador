@@ -1,0 +1,12 @@
+<h1>Test Html</h1>
+<p>Test text <b>with bold</b><br>
+<p>and more test on a new line, followed by a table
+<p>
+<table border=1>
+<tr><td>cell 1</td><td>cell b</td><td>cell</td><td>cell</td></tr>
+<tr><td>cell 2</td><td>cell b</td><td>cell</td><td>cell</td></tr>
+<tr><td>cell 3</td><td>cell b</td><td>cell</td><td>cell</td></tr>
+<tr><td>cell 4</td><td>cell b</td><td>cell</td><td>cell</td></tr>
+<tr><td>cell 5</td><td>cell b</td><td>cell</td><td>final cell</td></tr>
+</table>
+<p>and finally a "dead" hyperlink, <a href="http://www.marcocantu.com"> marcocantu.com </a>
